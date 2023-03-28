@@ -1,4 +1,11 @@
-### Hi there 👋
+# Hi everyone! 👋
+
+
+![OmarMesqq's GitHub stats](https://github-readme-stats.vercel.app/api?username=OmarMesqq&count_private=true)
+
+<br><br>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OmarMesqq&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **OmarMesqq/OmarMesqq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
