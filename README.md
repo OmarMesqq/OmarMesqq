@@ -3,8 +3,6 @@
 
 ![OmarMesqq's GitHub stats](https://github-readme-stats.vercel.app/api?username=OmarMesqq&count_private=true&theme=transparent)
 
-<br><br>
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OmarMesqq&layout=compact&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
