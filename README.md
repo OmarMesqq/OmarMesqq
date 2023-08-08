@@ -1,5 +1,4 @@
-# Hi, everyone! 👋
-
+# Hello, world :) 
 
 ![OmarMesqq's GitHub stats](https://github-readme-stats.vercel.app/api?username=OmarMesqq&count_private=true&theme=transparent)
 
