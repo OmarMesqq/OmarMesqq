@@ -1,20 +1,27 @@
-# Hello, world :) 
+# Welcome to OmarMesqq's GitHub!
 
-![OmarMesqq's GitHub stats](https://github-readme-stats.vercel.app/api?username=OmarMesqq&count_private=true&theme=transparent)
+Hello there! I'm Omar. Feel free to explore and reach out if you're interested in collaborating!
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OmarMesqq&layout=compact&theme=transparent&hide=jupyter%20notebook,tex,shell)](https://github.com/anuraghazra/github-readme-stats)
+## 📊 GitHub Statistics
 
-<!--
-**OmarMesqq/OmarMesqq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Below are some statistics about my GitHub activities:
 
-Here are some ideas to get you started:
+![GitHub stats for OmarMesqq](https://github-readme-stats.vercel.app/api?username=OmarMesqq&count_private=true&theme=transparent "OmarMesqq's GitHub Stats")
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔝 Most Used Languages
+
+Here's a compact view of the top languages I use in my public repositories:
+
+[![Top Languages used by OmarMesqq](https://github-readme-stats.vercel.app/api/top-langs/?username=OmarMesqq&layout=compact&theme=transparent&hide=jupyter%20notebook,tex,shell "Top Languages")](https://github.com/anuraghazra/github-readme-stats)
+
+
+## 🤝 How to Contribute
+
+Interested in contributing? Great! Take a look at the [Contribution Guidelines](#) for instructions on how to do so.
+
+## 📬 Get in Touch
+
+Have questions or want to discuss a project? You can contact me [at my email](mailto:omarmsqt@gmail.com).
+
+Thanks for visiting!
+
