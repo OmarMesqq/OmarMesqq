@@ -14,11 +14,6 @@ Here's a compact view of the top languages I use in my public repositories:
 
 [![Top Languages used by OmarMesqq](https://github-readme-stats.vercel.app/api/top-langs/?username=OmarMesqq&layout=compact&theme=transparent&hide=jupyter%20notebook,tex,shell "Top Languages")](https://github.com/anuraghazra/github-readme-stats)
 
-
-## 🤝 How to Contribute
-
-Interested in contributing? Great! Take a look at the [Contribution Guidelines](#) for instructions on how to do so.
-
 ## 📬 Get in Touch
 
 Have questions or want to discuss a project? You can contact me [at my email](mailto:omarmsqt@gmail.com).
