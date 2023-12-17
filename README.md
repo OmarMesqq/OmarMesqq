@@ -1,6 +1,7 @@
-# Welcome to OmarMesqq's GitHub!
+# Welcome to my GitHub profile! 
 
-Hello there! I'm Omar. Feel free to explore and reach out if you're interested in collaborating!
+Hello there! I'm Omar and I love learning new stuff and solving problems using computers 🤓 
+Feel free to explore and reach out if you're interested in collaborating!
 
 ## 📊 GitHub Statistics
 
@@ -10,13 +11,11 @@ Below are some statistics about my GitHub activities:
 
 ## 🔝 Most Used Languages
 
-Here's a compact view of the top languages I use in my public repositories:
+Below is a compact view of the top languages I use in my public repositories:
 
 [![Top Languages used by OmarMesqq](https://github-readme-stats.vercel.app/api/top-langs/?username=OmarMesqq&layout=compact&theme=transparent&hide=jupyter%20notebook,tex,shell "Top Languages")](https://github.com/anuraghazra/github-readme-stats)
 
 ## 📬 Get in Touch
 
 Have questions or want to discuss a project? You can contact me [at my email](mailto:omarmsqt@gmail.com).
-
-Thanks for visiting!
 
