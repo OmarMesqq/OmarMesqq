@@ -1,6 +1,7 @@
 # Welcome to my GitHub profile! 
 
 Hello there! I'm Omar and I love learning new stuff and solving problems using computers 🤓 
+
 Feel free to explore and reach out if you're interested in collaborating!
 
 ## 📊 GitHub Statistics
