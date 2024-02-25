@@ -2,17 +2,15 @@
 
 Hello there! I'm Omar and I love learning new stuff and solving problems using computers 🤓 
 
-Feel free to explore and reach out if you're interested in collaborating!
-
-By the way, I also have a [blog](https://omarmesqq.github.io/) where I write about technical topics.
+Feel free to explore and reach out!
 
 ## 🎉 Projects
 Below are some of the projects I created and am still a maintainer: 
 
 - [The Nano Calculator project](https://github.com/NanoCalc/nanocalc-oss)
-- [A Hysys plugin](https://github.com/AtomsUfrjSaturation/saturation)
-- [An intro to basic computing](https://github.com/OmarMesqq/livro)
-- [An analytical study of the political trends in Rio de Janeiro](https://github.com/OmarMesqq/ps-analytica)
+- [A thermodynamic modelling Hysys plugin](https://github.com/AtomsUfrjSaturation/saturation)
+- [A Lua wc implementation](https://github.com/OmarMesqq/wc)
+- [A Zig-based JSON parser](https://github.com/OmarMesqq/json-parser)
 
 ## 📊 GitHub Statistics
 
